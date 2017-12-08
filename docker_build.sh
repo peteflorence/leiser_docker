@@ -5,4 +5,4 @@
 
 set -exu
 
-docker build -t tapir -f ./project2.dockerfile .
+sudo docker build -t tapir -f ./project2.dockerfile .
